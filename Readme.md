@@ -1,8 +1,4 @@
 <!-- PROJECT LOGO -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Last Commit][last-commit]][commit-url]
-[![Pull Requests][pr-shield]][pr-url]
-[![MIT License][license-shield]][license-url]
 
 <br />
 <div align="center">
@@ -11,7 +7,9 @@
 
   <p align="center">
     This a reupload of a 2021 group project. 
-I only worked on the landing page, adoption match commonents, and the get match commands. 
+    
+I only worked on the landing page, adoption match commonents, and the get match commands. I tried to remove personal info, so parts may not work as intended.
+
 The application was built as a solution to try and help shelter animals get adopted.
 
   </p>
@@ -34,7 +32,7 @@ The application was built as a solution to try and help shelter animals get adop
 
 1. Clone the repo
 ```sh
-git clone https://github.com/Codubee/PetFinderTTH1-2.git
+git clone https://github.com/EilaFleuret/PetAdoptionApp.git
 ```
 2. Change into the front end directory
 ```sh
@@ -53,7 +51,7 @@ npm run start
 
 1. Clone the repo
 ```sh
-git clone https://github.com/Codubee/PetFinderTTH1-2.git
+git clone https://github.com/EilaFleuret/PetAdoptionApp.git
 ```
 2. Change into the back end directory
 ```sh
