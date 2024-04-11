@@ -7,7 +7,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Pet Finder</h3>
+  <h3 align="center">Pet Adoption App</h3>
 
   <p align="center">
     This a reupload of a 2021 group project. 
@@ -86,25 +86,6 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Codubee/PetFinderTTH1-2?style=for-the-badge
-
-[contributors-url]: https://github.com/Codubee/PetFinderTTH1-2/graphs/contributors
-
-
-[last-commit]: https://img.shields.io/github/last-commit/Codubee/PetFinderTTH1-2?style=for-the-badge
-
-[commit-url]: https://github.com/Codubee/PetFinderTTH1-2/commits/main
-
-
-[pr-shield]: https://img.shields.io/github/issues-pr-closed/Codubee/PetFinderTTH1-2?style=for-the-badge
-
-[pr-url]: https://github.com/Codubee/PetFinderTTH1-2/pulls
-
-
-[issues-url]: https://github.com/Codubee/PetFinderTTH1-2/pulls
 
 [license-shield]: https://img.shields.io/github/license/Codubee/PetFinderTTH1-2?style=for-the-badge
 
