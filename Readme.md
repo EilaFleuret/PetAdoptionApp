@@ -10,8 +10,10 @@
   <h3 align="center">Pet Finder</h3>
 
   <p align="center">
-    This project is created to try and match a person looking for a pet
-    with a shelter animal.
+    This a reupload of a 2021 group project. 
+I only worked on the landing page, adoption match commonents, and the get match commands. 
+The application was built as a solution to try and help shelter animals get adopted.
+
   </p>
 </div>
 
@@ -21,14 +23,6 @@
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
 * [Available Scripts](#available-scripts)
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-This a reupload of a 2021 group project. 
-I only worked on the landing page, adoption match commonents, and the get match commands. 
-The application was built as a solution to try and help shelter animals get adopted.
 
 
 <!-- GETTING STARTED -->
