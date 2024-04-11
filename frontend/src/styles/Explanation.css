@@ -1,0 +1,25 @@
+.jumbotron
+{
+    background-color: #a6e2dc !important;
+    width: 100vw;
+    margin: 0 auto;
+    align-self: center;
+}
+
+.headerline
+{
+    background-color: #2f5233;
+    text-decoration-thickness: 10vh;
+}
+
+.explanationH1
+{
+    font-size: 3.5rem;
+    font-weight: 300;
+}
+
+.introText
+{
+    font-size: 1.25rem;
+    font-weight: 300;
+}
